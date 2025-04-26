@@ -1,6 +1,10 @@
 # Horror-First-Person-Controller
 Quick implementation of a small Unity horror first-person controller package.
 
+### Requirements:
+This asset was made in a URP project on Unity 6. The dependencies required for this asset are only Cinemachine. This package does NOT use the
+new Unity Input System.
+
 ### Main Features:
 - 3D player movement with a rigid-based movement
 - Sprinting feature
